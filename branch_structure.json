@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "hv/fix-81",
+    "main",
+    "origin",
+    "test/w2-issue-312-subscription-autocharge-tests",
+    "test/w2-issue-324-session-refresh",
+    "wave/reland-116",
+    "wave/reland-117",
+    "wave/reland-118"
+  ],
+  "parent": {
+    "hv/fix-81": "main",
+    "main": null,
+    "origin": "main",
+    "test/w2-issue-312-subscription-autocharge-tests": "main",
+    "test/w2-issue-324-session-refresh": "main",
+    "wave/reland-116": "main",
+    "wave/reland-117": "main",
+    "wave/reland-118": "main"
+  },
+  "order": [
+    "main",
+    "hv/fix-81",
+    "origin",
+    "test/w2-issue-312-subscription-autocharge-tests",
+    "test/w2-issue-324-session-refresh",
+    "wave/reland-116",
+    "wave/reland-117",
+    "wave/reland-118"
+  ]
+}
